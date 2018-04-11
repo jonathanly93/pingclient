@@ -1,4 +1,4 @@
-###HOW TO RUN
+### HOW TO RUN
 
 Example startup:
 1) javac *.java
